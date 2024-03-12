@@ -1,5 +1,5 @@
 # VR-on-ChromeOS
-Enjoy some virtually reality in the comfort of your Chromebook.
+Enjoy some virtually reality from the comfort of your Chromebook.
 
 Updating Linux
 
