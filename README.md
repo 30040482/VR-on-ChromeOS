@@ -1,5 +1,7 @@
 # VR-on-ChromeOS
-Enjoy some virtually reality from the comfort of your Chromebook.
+Just don't get mad at me if it explodes.
+
+
 
 Updating Linux
 
