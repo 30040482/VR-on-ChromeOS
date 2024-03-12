@@ -1,5 +1,5 @@
 # VR-on-ChromeOS
-Just don't get mad at me if it explodes.
+[Work in progess. Don't break your computer before me]
 
 
 
