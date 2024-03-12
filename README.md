@@ -1,6 +1,5 @@
 # VR-on-ChromeOS
-[Work in progess. Don't break your computer before me]
-
+[Work in progess]
 
 
 Updating Linux
